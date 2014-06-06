@@ -1,6 +1,6 @@
 ## Configure pypi to use a custom package repository
 
-Make sure you are using *python3.3* i.e.
+Make sure you are using *Python 3.3 or 3.4* i.e.
 
 ```
 virtualenv --python=/usr/bin/python3.3 pypi_ex
