@@ -36,3 +36,18 @@ Automatically re-test when source changes
 pip install pytest-xdist
 py.test -f smth
 ```
+
+Code coverage
+
+```
+pip install pytest-cov
+py.test --cov your_mod --cov-report html test_your_mod.py
+```
+
+Open `file:///path-to/akai_python_workshop_2/htmlcov` in browser, or alternatively
+
+```
+python -m http.server
+```
+
+And open `http://localhost:8000/htmlcov` in browser
