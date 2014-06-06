@@ -1,7 +1,0 @@
-setup.py
-calc/__init__.py
-calc/calc.py
-calc_yournick.egg-info/PKG-INFO
-calc_yournick.egg-info/SOURCES.txt
-calc_yournick.egg-info/dependency_links.txt
-calc_yournick.egg-info/top_level.txt
